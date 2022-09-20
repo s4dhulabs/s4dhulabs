@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 ![image](https://user-images.githubusercontent.com/89562876/191158587-5f1ba7ff-c1a2-4179-a5fa-c1dcf1283a6a.png)
 
-
-<br>
 <br>
 I enjoy idealizing, designing, developing, and implementing security solutions to fix, break or<br>
 exploit digital stuff. Long story short, I need to be involved with creativity and code, of course.<br>

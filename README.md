@@ -26,7 +26,8 @@ which includes disciplines and skills like:<br>
 
 As an independent researcher on IoT, I've identified several vulnerabilities and obtained some<br>
 CVEs.  Lately, I have been developing an experimental security framework designed to audit web<br>
-applications in python:https://github.com/s4dhulabs/vimana-framework<br>
+applications in python: https://github.com/s4dhulabs/vimana-framework<br>
+
 
 Also, I have researched logic flaws for a while, and from that, I have created `LFWF:bD`, case<br>
 studies on business logic flaws and insecure design scenarios:<br> 

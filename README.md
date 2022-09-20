@@ -3,7 +3,8 @@
 s4dhulabs/s4dhulabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/89562876/191155478-47fe463a-6b90-4738-9714-78d32aab232d.png)
+
+![image](https://user-images.githubusercontent.com/89562876/191157858-b5e8a47e-d53d-401d-9d25-e48322330fe6.png)
 
 I enjoy idealizing, designing, developing, and implementing security solutions to fix, break or<br>
 exploit digital stuff. Long story short, I need to be involved with creativity and code, of course.<br>

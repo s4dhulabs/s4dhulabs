@@ -3,7 +3,7 @@
 s4dhulabs/s4dhulabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/89562876/191244256-5cb6a06b-a7e7-4e38-aa07-bed56d2ce135.png)
---->
+
 
 
 
@@ -37,7 +37,7 @@ https://github.com/s4dhulabs/LFWFBD<br>
 
 On the other hand, I'm also a sociologist interested in the anthropological approach to hacker<br>
 culture and the impacts of technology on society.<br>
-
+--->
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glayssontomaz)
 
 

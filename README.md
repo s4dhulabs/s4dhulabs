@@ -36,9 +36,10 @@ studies on business logic flaws and insecure design scenarios:<br>
 https://github.com/s4dhulabs/LFWFBD<br>
 
 On the other hand, I'm also a sociologist interested in the anthropological approach to hacker<br>
-culture and the impacts of technology on society.<br>
---->
+culture and the impacts of technology on society.<be>
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glayssontomaz)
+
+--->
 
 
 

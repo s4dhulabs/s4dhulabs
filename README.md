@@ -1,6 +1,6 @@
 
 
-
+```brainfuck
 I enjoy idealizing, designing, developing, and implementing security solutions to fix, break or<br>
 exploit digital stuff. Long story short, I need to be involved with creativity and code, of course.<br>
 
@@ -23,7 +23,7 @@ which includes disciplines and skills like:<br>
 On the other hand, I'm also a sociologist interested in the anthropological approach to hacker<br>
 culture and the impacts of technology on society.
 
-
+```
 
 
 
